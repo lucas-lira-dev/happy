@@ -3,13 +3,9 @@
 </h1>
 
 <h4 align="center"> 
-	:construction: Next Level Week 3.0 🚀:construction:
+	Next Level Week 3.0 🚀
 </h4>
 <p align="center">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucasrocha1999/happy">
-
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucasrocha1999/happy">
-	
   <a href="https://www.linkedin.com/in/lucas-lira-dev/">
     <img alt="Made by lucasrocha1999" src="https://img.shields.io/badge/made%20by-lucasrocha1999-%2304D361">
   </a>
@@ -18,14 +14,18 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucasrocha1999/happy">
   </a>
 
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucasrocha1999/happy">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucasrocha1999/happy">
+
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/lucasrocha1999/happy/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/lucasrocha1999/happy?style=social">
   </a>
 </p>
-<!-- <p align="center">
-<a href="https://insomnia.rest/run/?label=NLW%201.0%20-%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FNLW-1.0%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p> -->
+<p align="center">
+<a href="https://insomnia.rest/run/?label=API%20Happy&uri=https%3A%2F%2Fraw.githubusercontent.com%2Flucasrocha1999%2Fhappy%2Fmain%2Fbackend%2Fexport_insomnia" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
 
 <center>
 
