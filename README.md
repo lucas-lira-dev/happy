@@ -62,31 +62,26 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 From your command line:
 
-<!-- ### Install API 
+### Install API 
 
-:construction: ...Under construction.. :construction: -->
-
-<!-- ```bash
+```bash
 # Clone this repository
 $ git clone https://github.com/lucasrocha1999/happy
 
 # Go into the repository
-$ cd NLW-3.0/backend
+$ cd happy/backend
 
 # Install dependencies
 $ yarn install
 
 # Run Migrates
-$ yarn knex:migrate
-
-# Run Seeds
-$ yarn knex:seed
+$ yarn typeorm migration:run
 
 # Start server
 $ yarn dev
 
 # running on port 3333
-``` -->
+```
 
 ### Install Front-End
 
@@ -95,10 +90,10 @@ $ yarn dev
 $ git clone https://github.com/lucasrocha1999/happy
 
 # Go into the repository
-$ cd NLW-3.0/web
+$ cd happy/web
 
 # Install dependencies
-$ yarn install
+$ yarn
 
 # Run
 $ yarn start
