@@ -7,6 +7,8 @@
 </h4>
 <p align="center">	
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucasrocha1999/happy">
+
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucasrocha1999/happy">
 	
   <a href="https://www.linkedin.com/in/lucas-lira-dev/">
     <img alt="Made by lucasrocha1999" src="https://img.shields.io/badge/made%20by-lucasrocha1999-%2304D361">
