@@ -42,7 +42,6 @@ That aims to connect people to orphanages that allow to make a children's day mo
     <img alt="Example" title="Example" src=".github/Home.svg" width="500px" />
 </h1>
 
-
 ## Technologies
 
 This project was developed with the following technologies:
