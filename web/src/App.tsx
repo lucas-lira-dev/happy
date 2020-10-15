@@ -1,8 +1,8 @@
 import React from 'react';
 
-import { ThemesProvider } from './hooks/Themes';
-
 import Routes from './routes';
+
+import { ThemesProvider } from './hooks/Themes';
 
 const App: React.FC = () => {
 
