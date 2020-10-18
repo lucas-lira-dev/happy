@@ -100,27 +100,22 @@ $ yarn start
 # running on port 3000
 ```
 
-<!-- ### Install Mobile -->
+### Install Mobile
 
-<!-- ```bash
+ ```bash
 # Clone this repository
 $ git clone https://github.com/lucasrocha1999/happy
 
 # Go into the repository
-$ cd NLW-1.0/mobile
+$ cd happy/mobile
 
 # Install dependencies
-$ yarn install
+$ yarn
 
 # Run
 $ yarn start
 
-# Expo will open, just scan the qrcode on terminal or expo page
-
-# If some problem with fonts, execute:
-$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
-
-``` -->
+``` 
 
 ## How to contribute
 
