@@ -1,11 +1,8 @@
 import React from 'react';
-
 import Routes from './routes';
+import { ThemesProvider } from './hooks/themes';
 
-import { ThemesProvider } from './hooks/Themes';
-
-const App: React.FC = () => {
-
+function App() {
   return (
     <ThemesProvider>
       <Routes />
